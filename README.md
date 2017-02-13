@@ -1,13 +1,13 @@
 Supervisor Bundle
 =================
 
-[![Build Status](https://travis-ci.org/OsLab/SupervisorBundle.svg?branch=master)](https://travis-ci.org/OsLab/SupervisorBundle)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OsLab/SupervisorBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OsLab/SupervisorBundle/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/OsLab/SupervisorBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/OsLab/SupervisorBundle/?branch=master)
-[![Total Downloads](https://poser.pugx.org/oslab/supervisor-bundle/downloads)](https://packagist.org/packages/OsLab/SupervisorBundle)
-[![Latest Stable Version](https://poser.pugx.org/oslab/supervisor-bundle/v/stable)](https://packagist.org/packages/OsLab/SupervisorBundle)
-[![License](https://poser.pugx.org/oslab/supervisor-bundle/license)](https://packagist.org/packages/OsLab/SupervisorBundle)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/3c29df13-4d04-4aab-bf37-e70dc278f1e5/mini.png)](https://insight.sensiolabs.com/projects/3c29df13-4d04-4aab-bf37-e70dc278f1e5)
+[![Build Status](https://travis-ci.org/OsLab/supervisor.svg?branch=master)](https://travis-ci.org/OsLab/supervisor)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OsLab/supervisor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OsLab/supervisor/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/OsLab/supervisor/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/OsLab/supervisor/?branch=master)
+[![Total Downloads](https://poser.pugx.org/oslab/supervisor/downloads)](https://packagist.org/packages/OsLab/supervisor)
+[![Latest Stable Version](https://poser.pugx.org/oslab/supervisor/v/stable)](https://packagist.org/packages/OsLab/supervisor)
+[![License](https://poser.pugx.org/oslab/supervisor/license)](https://packagist.org/packages/OsLab/supervisor)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/da5ff437-33c7-49ec-b6b7-5ca9bd05b6a2/mini.png)](https://insight.sensiolabs.com/projects/da5ff437-33c7-49ec-b6b7-5ca9bd05b6a2)
 
 Supervisor is a library that helps you visualize supervisor instances for those who do not have the ability to use RPC.
 
